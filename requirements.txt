@@ -1,2 +1,2 @@
 aiohttp~=3.8.1
-attrs~=21.2.0
+attrs~=21.3.0
