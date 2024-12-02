@@ -1,2 +1,2 @@
-aiohttp~=3.10.10
+aiohttp~=3.11.9
 attrs~=24.2.0
